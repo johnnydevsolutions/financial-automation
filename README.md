@@ -1,10 +1,3 @@
-# Legal Document Automation Challenge
-
-⚠️ **Technical Assessment Solution** ⚠️
-
-This repository contains my solution for a technical challenge 
-for a Junior Legal Document Automation Specialist position.
-
 ## 🎯 Challenge Overview
 Implement structured notes payment calculation with buffer protection.
 
